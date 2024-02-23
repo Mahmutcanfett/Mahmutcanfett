@@ -4,4 +4,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,blender,cs,dotnet,bootstrap,ae,ps,pr,wordpress)](https://skillicons.dev)
+<div align center>[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,blender,cs,dotnet,bootstrap,ae,ps,pr,wordpress)](https://skillicons.dev)</div>div>

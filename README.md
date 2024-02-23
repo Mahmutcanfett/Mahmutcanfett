@@ -3,5 +3,9 @@
 <h3 align="center">A software developer who is still a student but improving themselves.</h3>
 
 
-
-<div align center>[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,blender,cs,dotnet,bootstrap,ae,ps,pr,wordpress)](https://skillicons.dev)</div>div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,blender,cs,dotnet,bootstrap,ae,ps,pr,wordpress)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,blender,cs,dotnet,bootstrap,ae,ps,pr,wordpress)](https://skillicons.dev />
+  </a>
+</p>

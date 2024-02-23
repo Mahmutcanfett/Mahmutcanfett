@@ -1,4 +1,1 @@
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGpiYnM2bTI4ZzU5cDFjM2lzaHg1a2xpNDY3aW1uajQ1Y2dhOGdmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WApIcl7whuH3W/giphy.gif"></br>
-<h1 align="center">Hi 👋, Mahmut Can Fettahoğlu</h1>
-
-
+<img align="center" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://3.bp.blogspot.com/-bvHYCq8FTK8/WBrUbwIxbXI/AAAAAAAAAkU/wVii8vHomb0K7tEzLnRTvNK6Hh-y9bj0wCEw/s1600/tumblr_o06mgbLG4f1qd4rf5o4_500.gif)https://3.bp.blogspot.com/-bvHYCq8FTK8/WBrUbwIxbXI/AAAAAAAAAkU/wVii8vHomb0K7tEzLnRTvNK6Hh-y9bj0wCEw/s1600/tumblr_o06mgbLG4f1qd4rf5o4_500.gif">

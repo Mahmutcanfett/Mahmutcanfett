@@ -9,3 +9,88 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,blender,ae,pr,ps,cs,dotnet,bootstrap,wordpress" />
   </a>
 </p>
+
+
+
+import {View, Text,SafeAreaView,StyleSheet,TouchableOpacity } from 'react-native'
+import React from 'react'
+
+const HomePage = () => {
+  return (
+    <SafeAreaView style={styles.container}>
+       <View style={styles.header}></View>
+       <View style={styles.body}>
+       
+       <View style={styles.bodycontainer}>
+                    <Text style={styles.bodyyazi}>
+                    Hosgeldiniz 
+                    
+                    </Text>
+                </View>
+        <View style={styles.bodybutton}> 
+          <TouchableOpacity style={styles.subaloncugu}>
+            <Text>Tikla</Text>
+          </TouchableOpacity>
+        </View>
+       
+       </View>
+        <View style={styles.footer}></View>
+    </SafeAreaView>
+  )
+}
+
+const styles =  StyleSheet.create({
+    container: {
+        flex:1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#365486',
+    },
+    header: {
+        width:1000,
+        height:75,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#4169ab',
+        borderBottomWidth: 1, 
+        borderBottomColor: 'black', 
+    },  
+    body: {
+        flex:1,
+        backgroundColor: '#365486',
+        justifyContent: 'center',
+        alignItems: 'center'
+    },
+    footer: {
+        width: 1000,
+        height:50,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#4169ab',
+        borderTopWidth: 1, 
+        borderTopColor: 'black', 
+    },
+    bodycontainer:{
+      justifyContent: 'start',
+      alignItems: 'start'
+    },
+    bodyyazi:{
+      fontWeight: 'bold',
+      fontSize:20,
+    },
+    subaloncugu:{
+        alignItems: 'center',
+        padding:10,
+        backgroundColor: '#0F1035',
+        borderWidth: 2,
+        borderColor: 'white',
+        borderRadius: 10,
+        width:125,
+        margin:10,
+    },
+    bodybutton:{
+      justifyContent:'center',
+      alignItems:'center',
+    }
+})
+export default HomePage
